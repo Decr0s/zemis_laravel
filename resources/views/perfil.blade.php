@@ -45,7 +45,7 @@
                         </div>
                         <div class="row justify-content-center" style="margin-bottom:15px;">
                             <label class="col-md-2">E-mail: </label>
-                            <input class="form-control col-md-5" type="text" name="email" value="{{$usuario->email}}"> 
+                            <input class="form-control col-md-5" type="text" name="email" value="{{$usuario->email}}" disabled> 
                         </div>
                         
                         <div class="row justify-content-center" style="margin-bottom:15px;">
